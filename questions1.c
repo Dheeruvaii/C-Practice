@@ -24,5 +24,5 @@ s=s*10+rem; /* multiplying previous sum by 10 i.e. shifiting its postion and
 remainder is added */
 n=n/10; /* quotient i.e to decrease number size by 1 digit */
 }
-return 
+return s;
 }
